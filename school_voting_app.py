@@ -1,11 +1,10 @@
-# ===========================
-#  SCHOOL VOTING SYSTEM (by Parth - tweaked a bit)
-# ===========================
+
+#  SCHOOL VOTING SYSTEM (by Parth)
 # Small school election voting app.
 # Handles candidates, voters, votes, and saves everything neatly in JSON.
 
 import json
-import os   # Using os here mainly to check file presence manually (habit, really)
+import os   # Using os here mainly to check file presence manually 
 
 
 class SchoolVoting:
