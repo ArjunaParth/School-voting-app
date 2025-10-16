@@ -2,6 +2,7 @@
 School Voting App (by Parth Pandey)
 
 Overview
+
 The **School Voting App** is a secure, modular, and interactive election management system developed fully in Python.
 It enables schools to carry out electronic elections for roles such as *Head Boy* and *Head Girl* while maintaining integrity, transparency, and simplicity.
 This project illustrates **clean code design, data management, and problem-solving ability**, both technical competence and social consciousness.
